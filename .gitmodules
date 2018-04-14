@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/EditorUtilities"]
+	path = Assets/Plugins/EditorUtilities
+	url = https://github.com/MaxRoetzler/EditorUtilities.git
